@@ -5,3 +5,5 @@ face_match_aiic_r2/face-matching
 imc_25/image-matching-challenge-2025
 pig_posture_recognition/pig_posture_recognition
 pig_posture_recognition/yolo_cls_data
+santander_customer_prediction/dataset
+santander_customer_prediction/runs
